@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "TT Norms";
+  font-style: normal;
+  font-weight: 300;
+  src: local(""), url("TTNorms-Light.b327bf90.woff2") format("woff2"), url("TTNorms-Light.0baf38f4.woff") format("woff");
+  font-display: swap;
+}
+@font-face {
+  font-family: "TT Norms";
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("TTNorms-Regular.49a1a391.woff2") format("woff2"), url("TTNorms-Regular.0344d07e.woff") format("woff");
+  font-display: swap;
+}
+@font-face {
+  font-family: "TT Norms";
+  font-style: normal;
+  font-weight: 500;
+  src: local(""), url("TTNorms-Medium.5ad59249.woff2") format("woff2"), url("TTNorms-Medium.f218fca2.woff") format("woff");
+  font-display: swap;
+}
+@font-face {
+  font-family: "PF Regal Display Pro";
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("PFRegalDisplayPro-Regular.166e4adf.woff2") format("woff2"), url("PFRegalDisplayPro-Regular.2701d2ab.woff") format("woff");
+  font-display: swap;
+}
+/*# sourceMappingURL=index.4f5d8e87.css.map */
